@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_formicon_phone.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_formicon_phone.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_formicon_location.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_formicon_location.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_socialicon_google.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_socialicon_google.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_usericons_camera.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_usericons_camera.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_socialicon_twitter.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_socialicon_twitter.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_usericons_logout.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_usericons_logout.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_formicon_calendar.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_formicon_calendar.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_usericons_back.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_usericons_back.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_images_patient.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_images_patient.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_formicon_user.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_formicon_user.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_usericons_addnew.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_usericons_addnew.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_usericons_success.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_usericons_success.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_usericons_email.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_usericons_email.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_usericons_scan.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_usericons_scan.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_homeicon_invite.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_homeicon_invite.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_homeicon_aboutus.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_homeicon_aboutus.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_homeicon_aboutme.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_homeicon_aboutme.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_socialicon_fb.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_socialicon_fb.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_homeicon_myconsults.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_homeicon_myconsults.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_formicon_eye.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_formicon_eye.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_images_doctors.jpg.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_images_doctors.jpg"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_images_physician.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_images_physician.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/layout_launch_screen.xml.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_formicon_money.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_formicon_money.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_homeicon_feedback.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_homeicon_feedback.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_images_headerimage.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_images_headerimage.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_homeicon_newconsult.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_homeicon_newconsult.png"
+    },
+    {
+        "merged": "/home/navneet/vdoc-mobile-app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_formicon_home.png.flat",
+        "source": "/home/navneet/vdoc-mobile-app/android/app/src/main/res/drawable-mdpi/src_assets_formicon_home.png"
+    }
+]

@@ -1,0 +1,188 @@
+{
+    "status": true,
+    "data": [
+        {
+            "id": 1,
+            "question": "Describe briefly the reason for consult today",
+            "types": "input",
+            "input": false,
+            "option": []
+        },
+        {
+            "id": 2,
+            "question": "Describe symptoms you are experiencing.",
+            "types": "input",
+            "input": false,
+            "option": []
+        },
+        {
+            "id": 3,
+            "question": "Have you taken any medications, Had any surgery or Had radiation or chemotherapy for today's condition.",
+            "types": "radio",
+            "input": true,
+            "option": [
+                {
+                    "label": "Yes",
+                    "value": 1
+                },
+                {
+                    "label": "No",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Are you still on medication prescribed by another doctor?",
+            "types": "radio",
+            "input": true,
+            "option": [
+                {
+                    "label": "Yes",
+                    "value": 3
+                },
+                {
+                    "label": "No",
+                    "value": 4
+                },
+                {
+                    "label": "Maybe",
+                    "value": 5
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Do you have a habit of smoking?",
+            "types": "radio",
+            "input": false,
+            "option": [
+                {
+                    "label": "Yes",
+                    "value": 6
+                },
+                {
+                    "label": "No",
+                    "value": 7
+                }
+            ]
+        },
+
+        {
+            "id": 6,
+            "question": "Which surgery has been recommended to you before?",
+            "types": "radio",
+            "input": true,
+            "option": [
+                {
+                    "label": "Appendix",
+                    "value": 39
+                },
+                {
+                    "label": "Tonsils",
+                    "value": 40
+                },
+                {
+                    "label": "Gall Bladder",
+                    "value": 41
+                },
+                {
+                    "label": "Kidney Removal",
+                    "value": 42
+                },
+                {
+                    "label": "Hysterectomy",
+                    "value": 43
+                },
+                {
+                    "label": "Back Surgery",
+                    "value": 44
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question": "Choose organ system.",
+            "types": "organ",
+            "input": false,
+            "option": [
+                {
+                    "label": "Neurology",
+                    "value": 45
+                },
+                {
+                    "label": "Cardiology",
+                    "value": 46
+                },
+                {
+                    "label": "Respiratory System",
+                    "value": 47
+                },
+                {
+                    "label": "Infections Disease",
+                    "value": 48
+                },
+                {
+                    "label": "Gastrointestinal",
+                    "value": 49
+                },
+                {
+                    "label": "Kidney Disease",
+                    "value": 50
+                },
+                {
+                    "label": "Blood Diseases & Cancer",
+                    "value": 51
+                },
+                {
+                    "label": "Diabetes, Thyroid & Endocrinology",
+                    "value": 52
+                },
+                {
+                    "label": "Skin Diseases",
+                    "value": 53
+                },
+                {
+                    "label": "Cardiothoracic surgery",
+                    "value": 54
+                },
+                {
+                    "label": "General Surgery",
+                    "value": 55
+                },
+                {
+                    "label": "Urology Gynecology",
+                    "value": 56
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question": "Blood Diseases & Cancer",
+            "types": "radio",
+            "input": true,
+            "option": [
+                {
+                    "label": "Blood disorder",
+                    "value": 57
+                },
+                {
+                    "label": "Enlarged lymph nodes",
+                    "value": 58
+                },
+                {
+                    "label": "Sickle cell disease",
+                    "value": 59
+                },
+                {
+                    "label": "HIV/AIDS",
+                    "value": 60
+                },
+                {
+                    "label": "Other",
+                    "value": 61
+                }
+            ]
+        }
+    ]
+}

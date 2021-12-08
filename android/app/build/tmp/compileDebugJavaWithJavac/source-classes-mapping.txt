@@ -1,0 +1,14 @@
+com/vdocapp/MainActivity.java
+ com.vdocapp.MainActivity
+com/vdocapp/ReactNativeFlipper.java
+ com.vdocapp.ReactNativeFlipper
+ com.vdocapp.ReactNativeFlipper$1
+ com.vdocapp.ReactNativeFlipper$2
+ com.vdocapp.ReactNativeFlipper$2$1
+com/vdocapp/MainApplication.java
+ com.vdocapp.MainApplication
+ com.vdocapp.MainApplication$1
+com/vdocapp/BuildConfig.java
+ com.vdocapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

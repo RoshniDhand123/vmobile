@@ -1,0 +1,150 @@
+import { Field, DatePicker, Select, ImagePickerCustom } from "app/elements";
+import {
+    verifyEmail,
+    email_conditions,
+    password_conditions,
+    verifyPassword,
+    phone_conditions,
+    verifyPhone,
+    income_conditions,
+    verifyIncome,
+    name_conditions,
+    verifyName,
+    zipcode_conditions,
+    verifyZipcode,
+} from "app/services/utils";
+
+import {
+    User,
+    Phone,
+    Email,
+    Location,
+    Money,
+    Calendar,
+    Home,
+} from "app/assets";
+
+const step1 = [
+    {
+        name: "name",
+        placeholder: "Name",
+        type: "name",
+        required: true,
+        iconName: "name",
+        iconImg: User,
+        component: Field,
+        min: 3,
+        max: 50,
+        matches: name_conditions,
+        create_err_msg: verifyName,
+    },
+    {
+        name: "contact",
+        placeholder: "Contact No.",
+        type: "phone",
+        required: true,
+        iconName: "name",
+        component: Field,
+        iconImg: Phone,
+        min: 5,
+        max: 15,
+        matches: phone_conditions,
+        create_err_msg: verifyPhone,
+    },
+    {
+        name: "email",
+        placeholder: "Email",
+        type: "email",
+        required: true,
+        iconName: "name",
+        component: Field,
+        iconImg: Email,
+        matches: email_conditions,
+        create_err_msg: verifyEmail,
+    },
+];
+
+const step2 = [
+    {
+        name: "dob",
+        placeholder: "Date Of Birth",
+        type: "date",
+        required: true,
+        iconName: "name",
+        iconImg: Calendar,
+        component: DatePicker,
+        extra: { maxDate: new Date(Date.now() - 86400000) },
+    },
+    {
+        name: "address",
+        placeholder: "Address",
+        type: "text",
+        iconName: "name",
+        component: Field,
+        iconImg: Home,
+        required: true,
+    },
+    {
+        name: "income",
+        placeholder: "Income",
+        type: "income",
+        iconName: "name",
+        required: true,
+        component: Field,
+        iconImg: Money,
+        max: 20,
+        matches: income_conditions,
+        create_err_msg: verifyIncome,
+    },
+];
+
+const step3 = [
+    {
+        name: "zipcode",
+        placeholder: "Zip Code",
+        type: "zip",
+        iconName: "name",
+        required: true,
+        component: Field,
+        iconImg: Location,
+        min: 5,
+        max: 10,
+        matches: zipcode_conditions,
+        create_err_msg: verifyZipcode,
+    },
+    {
+        name: "gender",
+        placeholder: "Gender",
+        type: "select",
+        required: true,
+        iconName: "name",
+        component: Select,
+        options: [
+            { label: "Gender", value: "" },
+            { label: "Male", value: "Male" },
+            { label: "Female", value: "Female" },
+            { label: "Others", value: "Others" },
+        ],
+    },
+    {
+        name: "pic",
+        placeholder: "Choose Profile Picture",
+        type: "image",
+        // required: true,
+        iconName: "name",
+        component: ImagePickerCustom,
+    },
+    {
+        name: "password",
+        placeholder: "Password",
+        type: "password",
+        required: true,
+        iconName: "name",
+        component: Field,
+        matches: password_conditions,
+        create_err_msg: verifyPassword,
+    },
+];
+
+const fields = { step1, step2, step3 };
+export { fields };
